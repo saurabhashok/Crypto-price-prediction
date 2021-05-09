@@ -1,1 +1,1 @@
-# Bitcoin-price-prediction
+# Cryptocurrency-price-prediction
